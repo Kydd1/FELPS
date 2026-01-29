@@ -49,5 +49,6 @@ For the length predictor, we finetune the OPT-125M following the instrucion of [
 Then run the experiment example by:
 ```
 # Example of run experiment on Llama-7b and Multi-task workload.
+cd benchmarks
 bash exp.sh
 ```
